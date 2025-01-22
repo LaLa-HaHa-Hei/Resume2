@@ -3,6 +3,7 @@
     margin: 0;
 }
 
+html,
 body {
     /* A4大小 */
     width: 210mm;
@@ -19,7 +20,7 @@ body {
 }
 
 section>.section-title {
-    width: 150px;
+    width: 130px;
     position: absolute;
     top: -20px;
     left: -20px;
